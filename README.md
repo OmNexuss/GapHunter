@@ -75,7 +75,7 @@ TARGET_COUNT = 50
 
 ## 🤝 Katkıda Bulunma
 
-GapHunter geliştirilmeye açık bir projedir! Her türlü katkıya (Pull Request) ve yeni fikre açığız. Özellikle şu alanlarda yardıma ihtiyacımız var:
+GapHunter geliştirilmeye açık bir projedir! Her türlü katkıya (Pull Request) ve yeni fikre açığım. Özellikle gerçekleştirmeyi düşündüğüm güncellemeler:
 
 - 🤖 **AI Enhancements**: İşletme büyüklüğünü daha hassas ölçen yeni algoritmalar.
 - 📧 **Automation**: Filtrelenen işletmelere özel teklif sunan otomatik mail modülleri.
