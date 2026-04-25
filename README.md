@@ -73,6 +73,24 @@ TARGET_COUNT = 50
 
 ---
 
+## 🤝 Contributing
+
+GapHunter geliştirilmeye açık bir projedir! Her türlü katkıya (Pull Request) ve yeni fikre açığız. Özellikle şu alanlarda yardıma ihtiyacımız var:
+
+- 🤖 **AI Enhancements**: İşletme büyüklüğünü daha hassas ölçen yeni algoritmalar.
+- 📧 **Automation**: Filtrelenen işletmelere özel teklif sunan otomatik mail modülleri.
+- 🌐 **Dashboard**: Verilerin izlenebileceği basit bir web arayüzü.
+
+### Nasıl Katkı Sağlarsınız?
+
+1. Repoyu fork'layın.
+2. Yeni bir özellik için branch oluşturun (`git checkout -b feature/AmazingFeature`).
+3. Değişikliklerinizi commit edin (`git commit -m 'Add: AmazingFeature'`).
+4. Branch'inizi push edin (`git push origin feature/AmazingFeature`).
+5. Bir Pull Request açın.
+
+---
+
 ## 🛡️ License & Copyright
 
 This project is open-source. However, the implementation and logic are optimized for high-performance lead generation.
