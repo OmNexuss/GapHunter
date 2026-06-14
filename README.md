@@ -95,4 +95,4 @@ GapHunter geliştirilmeye açık bir projedir! Her türlü katkıya (Pull Reques
 
 Bu proje açık kaynaklıdır. Ancak, uygulama ve mantık yüksek performanslı potansiyel müşteri oluşturma için optimize edilmiştir.
 
-**© 2026 OmNexus. Tüm Hakları Saklıdır.**
+**© 2026 <a href="https://github.com/OmNexuss"> OmNexus.</a> Tüm Hakları Saklıdır.**
